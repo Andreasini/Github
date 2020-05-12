@@ -1,0 +1,70 @@
+p{
+    margin:0;
+}
+.container-verybig{
+    max-width:1560px;
+}
+
+#bandeausaison4{
+    background-image: url(../img/combat.jpg);
+    background-position: center;
+    min-height: 100vh;
+}
+
+#bandeausaison4 h1{
+    color: white;
+    text-align:left;
+    font-weight: 700;
+    font-size: 52px;
+    margin-bottom: 20px;
+    font-family: Semplicita Pro,Open Sans,Arial,Helvetica, sans-serif;
+    text-transform:uppercase;
+    padding-top: 220px;
+}
+#bandeausaison4 p{
+    color: white;
+    font-family: Semplicita Pro,Open Sans,Arial,Helvetica, sans-serif;
+    font-size: 1rem;
+    line-height: 1.5;
+    text-shadow: 0 0 1px transparent,0 1px 2px rgba(0,0,0,.8);
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+.button-buy {
+    background: rgba(159,22,0,.6);
+    padding: 20px;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #f8b700;
+    text-shadow: 0 0 1px transparent,0 1px 2px rgba(0,0,0,.8);
+    margin-left: 30px;
+    border: 1px solid #f8b700;
+}
+.button-ensavoir{
+    background:#636362;
+    padding: 20px;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #f8b700;
+    text-shadow: 0 0 1px transparent,0 1px 2px rgba(0,0,0,.8);
+    margin-left: 30px;
+    border: 1px solid #f8b700;
+}
+
+.novelties {
+    font-size: 1.08rem;
+    line-height: 1.5;
+    font-family: Semplicita Pro,Open Sans,Arial,Helvetica,sans-serif;
+    color: #fff;
+    text-shadow: 0 0 1px transparent,0 1px 2px rgba(0,0,0,.8);
+    font-weight: 700;
+}
+.news {
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #f8b700;
+    text-shadow: 0 0 1px transparent,0 1px 2px rgba(0,0,0,.8);
+}
+.text-left{
+    margin-top: 80px;
+}
