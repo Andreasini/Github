@@ -22,12 +22,12 @@ p{
     padding-top: 220px;
 }
 #bandeausaison4 p{
-    color: white;
+    color: rgb(241, 230, 178);
     font-family: Semplicita Pro,Open Sans,Arial,Helvetica, sans-serif;
-    font-size: 1rem;
+    font-size: 20px;
     line-height: 1.5;
     text-shadow: 0 0 1px transparent,0 1px 2px rgba(0,0,0,.8);
-    padding-top: 50px;
+    padding-top: 20px;
     padding-bottom: 20px;
 }
 .button-buy {
@@ -37,7 +37,6 @@ p{
     line-height: 1.5;
     color: #f8b700;
     text-shadow: 0 0 1px transparent,0 1px 2px rgba(0,0,0,.8);
-    margin-left: 30px;
     border: 1px solid #f8b700;
 }
 .button-ensavoir{
