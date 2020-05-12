@@ -9,17 +9,19 @@ p{
     background-image: url(../img/combat.jpg);
     background-position: center;
     min-height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 #bandeausaison4 h1{
     color: white;
     text-align:left;
     font-weight: 700;
-    font-size: 52px;
+    font-size: 40px;
     margin-bottom: 20px;
     font-family: Semplicita Pro,Open Sans,Arial,Helvetica, sans-serif;
     text-transform:uppercase;
-    padding-top: 220px;
+    margin-top: 10px;
 }
 #bandeausaison4 p{
     color: rgb(241, 230, 178);
@@ -71,4 +73,43 @@ p{
     color: rgb(241, 230, 178);
     margin-top: 10px;
     text-decoration: underline;
+}
+#bandeausaison4 .colonne1 {
+	
+	width: calc(100vw/5);
+    border: 1px solid red;
+    padding: 20px;
+    margin: 25px;
+}
+#bandeausaison4 .colonne2 {
+    padding: 20px;
+    border: 1px solid red;
+	width: calc(100vw/5);
+    margin: 25px;
+}
+#bandeausaison4 .colonne3 {
+    padding: 20px;
+    border: 1px solid red;
+	margin: 25px;
+	width: calc(100vw/5);
+}
+#bandeausaison4 .colonne4 {
+    padding: 20px;
+    border: 1px solid red;
+    width: calc(100vw/5);
+    margin: 25px;
+}
+#bandeau2saison4{
+    background-image: url(../img/gobelin.jpg);
+    background-position: center;
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display : flex;
+}
+
+.carrousel{
+    display: flex;
+    justify-content: space-between;
+    height: 200px;
 }
