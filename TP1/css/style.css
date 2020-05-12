@@ -28,9 +28,9 @@ p{
     line-height: 1.5;
     text-shadow: 0 0 1px transparent,0 1px 2px rgba(0,0,0,.8);
     padding-top: 20px;
-    padding-bottom: 20px;
+    padding-bottom: 10px;
 }
-.button-buy {
+#bandeausaison4 .button-buy {
     background: rgba(159,22,0,.6);
     padding: 20px;
     font-size: 1rem;
@@ -39,7 +39,7 @@ p{
     text-shadow: 0 0 1px transparent,0 1px 2px rgba(0,0,0,.8);
     border: 1px solid #f8b700;
 }
-.button-ensavoir{
+#bandeausaison4 .button-ensavoir{
     background:#636362;
     padding: 20px;
     font-size: 1rem;
@@ -50,7 +50,7 @@ p{
     border: 1px solid #f8b700;
 }
 
-.novelties {
+#bandeausaison4 .novelties {
     font-size: 1.08rem;
     line-height: 1.5;
     font-family: Semplicita Pro,Open Sans,Arial,Helvetica,sans-serif;
@@ -66,4 +66,9 @@ p{
 }
 .text-left{
     margin-top: 80px;
+}
+#bandeausaison4 .discover{
+    color: rgb(241, 230, 178);
+    margin-top: 10px;
+    text-decoration: underline;
 }
